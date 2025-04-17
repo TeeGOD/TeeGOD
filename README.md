@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Tom-junior!
+# 👋 Hi, I'm Tom!
 
 I'm a backend-focused developer with a passion for infrastructure, automation, and coding smart systems. I mainly work with **Python** and **SQL**, and I manage my own infrastructure using **Proxmox** and Linux.
 
