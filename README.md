@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Robert Tom-junior!
 
-<!--
-**TeeGOD/TeeGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer with a passion for infrastructure, automation, and coding smart systems. I mainly work with **Python** and **SQL**, and I manage my own infrastructure using **Proxmox** and Linux.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 💻 **Languages**: Python, SQL
+- 🛠️ **Infrastructure & Hosting**: Proxmox, Docker, Linux
+- 🗃️ **Databases**: PostgreSQL, MySQL, SQLite
+- 🌐 **Web Development**: Flask, FastAPI, Django
+- 🎮 **Extras**: Discord bots, game server hosting, key-based authentication systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Focus
+- Running and expanding my Proxmox-powered homelab with a /16 network  
+- Hosting and selling game servers on my own infrastructure  
+- Building internal tools and automation scripts for smoother workflows  
+- Preparing to study **Computer Science** in Canada and eventually move there 🇨🇦
